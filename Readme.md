@@ -59,10 +59,6 @@ Designing products that people actually enjoy using.
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: Coming Soon
-- 💼 LinkedIn: Coming Soon
-- ✉️ Email: your@email.com
-
 ---
 
 > *"Good products aren't built by accident."*
